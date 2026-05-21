@@ -46,11 +46,11 @@ Everything documented here, week by week.
 
 | Repo | Descrição / Description |
 |------|------------------------|
-| [`cybersec-notes`](.) | Anotações diárias de estudo / Daily study notes |
-| [`ctf-writeups`](.) | Soluções de CTFs e labs / CTF & lab writeups |
-| [`lab-reports`](.) | Relatórios técnicos de pentest e IR / Pentest & IR reports |
-| [`scripts`](.) | Ferramentas Python e Bash / Python & Bash tools |
-| [`cert-study`](.) | Resumos de certificações / Certification summaries |
+| [`cybersec-notes`](https://github.com/vitor-noronha/cybersec-notes) | Anotações diárias de estudo / Daily study notes |
+| [`ctf-writeups`](https://github.com/vitor-noronha/ctf-writeups) | Soluções de CTFs e labs / CTF & lab writeups |
+| [`lab-reports`](https://github.com/vitor-noronha/lab-reports) | Relatórios técnicos de pentest e IR / Pentest & IR reports |
+| [`scripts`](https://github.com/vitor-noronha/scripts) | Ferramentas Python e Bash / Python & Bash tools |
+| [`cert-study`](https://github.com/vitor-noronha/cert-study) | Resumos de certificações / Certification summaries |
 
 ---
 
